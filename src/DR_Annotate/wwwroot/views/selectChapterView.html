@@ -1,0 +1,14 @@
+﻿<div ng-repeat="chapter in chapters">
+    <ul>
+        <li>{{chapter}}</li>
+    </ul>
+</div>
+
+<label>Upload Txt Chapters</label>
+<input type="file" id="uploadChapter" />
+<input type="submit" ng-click="vm.uploadChapter()"/>
+
+
+<label>Upload XML Annotations</label>
+<input type="file" id="uploadAnnotation" />
+<input type="submit" ng-click="vm.uploadAnnotation()" />

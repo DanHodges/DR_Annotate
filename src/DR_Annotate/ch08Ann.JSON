@@ -1,0 +1,682 @@
+﻿[
+  {
+    "content": "a large rose-tree stood",
+    "category": "PERSON",
+    "start": "0",
+    "end": "22",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the garden",
+    "category": "LOCATION",
+    "start": "45",
+    "end": "54",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "157",
+    "end": "161",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "five!",
+    "category": "PERSON",
+    "start": "307",
+    "end": "311",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "964",
+    "end": "968",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "1116",
+    "end": "1120",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the garden",
+    "category": "LOCATION",
+    "start": "1576",
+    "end": "1585",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the queen",
+    "category": "PERSON",
+    "start": "1600",
+    "end": "1608",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "1738",
+    "end": "1742",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the soldiers",
+    "category": "PERSON",
+    "start": "2027",
+    "end": "2038",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the royal children;",
+    "category": "PERSON",
+    "start": "2062",
+    "end": "2080",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "hearts",
+    "category": "ORGANIZATION",
+    "start": "2210",
+    "end": "2215",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "2280",
+    "end": "2284",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the white rabbit",
+    "category": "PERSON",
+    "start": "2297",
+    "end": "2312",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the knave of hearts",
+    "category": "ORGANIZATION",
+    "start": "2444",
+    "end": "2462",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "hearts",
+    "category": "ORGANIZATION",
+    "start": "2587",
+    "end": "2592",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "2596",
+    "end": "2600",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "3001",
+    "end": "3005",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the\nknave of hearts",
+    "category": "ORGANIZATION",
+    "start": "3102",
+    "end": "3120",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "idiot!",
+    "category": "PERSON",
+    "start": "3161",
+    "end": "3166",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the queen",
+    "category": "PERSON",
+    "start": "3174",
+    "end": "3182",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "3231",
+    "end": "3235",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "3291",
+    "end": "3295",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "3328",
+    "end": "3332",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the queen",
+    "category": "PERSON",
+    "start": "3480",
+    "end": "3488",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the rest of the\npack",
+    "category": "PERSON",
+    "start": "3654",
+    "end": "3673",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "soldiers",
+    "category": "PERSON",
+    "start": "3727",
+    "end": "3734",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "3808",
+    "end": "3812",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "4022",
+    "end": "4026",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "a child!",
+    "category": "PERSON",
+    "start": "4169",
+    "end": "4176",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the king",
+    "category": "PERSON",
+    "start": "4427",
+    "end": "4434",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the royal children",
+    "category": "PERSON",
+    "start": "4448",
+    "end": "4465",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the queen",
+    "category": "PERSON",
+    "start": "4764",
+    "end": "4772",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "4960",
+    "end": "4964",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "5014",
+    "end": "5018",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the soldiers",
+    "category": "PERSON",
+    "start": "5294",
+    "end": "5305",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the soldiers",
+    "category": "PERSON",
+    "start": "5386",
+    "end": "5397",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "5426",
+    "end": "5430",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "5494",
+    "end": "5498",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "5541",
+    "end": "5545",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the white rabbit",
+    "category": "PERSON",
+    "start": "5696",
+    "end": "5711",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "5769",
+    "end": "5773",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the duchess",
+    "category": "PERSON",
+    "start": "5787",
+    "end": "5797",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the rabbit",
+    "category": "PERSON",
+    "start": "5821",
+    "end": "5830",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "6045",
+    "end": "6049",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the rabbit",
+    "category": "PERSON",
+    "start": "6083",
+    "end": "6092",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "6123",
+    "end": "6127",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the rabbit",
+    "category": "PERSON",
+    "start": "6217",
+    "end": "6226",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "6235",
+    "end": "6239",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the rabbit",
+    "category": "PERSON",
+    "start": "6287",
+    "end": "6296",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "6626",
+    "end": "6630",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the mallets",
+    "category": "PERSON",
+    "start": "6764",
+    "end": "6774",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the soldiers",
+    "category": "PERSON",
+    "start": "6797",
+    "end": "6808",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the doubled-up soldiers",
+    "category": "PERSON",
+    "start": "7628",
+    "end": "7650",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "7721",
+    "end": "7725",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "8084",
+    "end": "8088",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the cat",
+    "category": "PERSON",
+    "start": "8764",
+    "end": "8770",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "8830",
+    "end": "8834",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "9031",
+    "end": "9035",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "9282",
+    "end": "9286",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "9845",
+    "end": "9849",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the king",
+    "category": "PERSON",
+    "start": "10094",
+    "end": "10101",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "10116",
+    "end": "10120",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "10222",
+    "end": "10226",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the king",
+    "category": "PERSON",
+    "start": "10301",
+    "end": "10308",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the king",
+    "category": "PERSON",
+    "start": "10422",
+    "end": "10429",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "10480",
+    "end": "10484",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "a king",
+    "category": "PERSON",
+    "start": "10519",
+    "end": "10524",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "10533",
+    "end": "10537",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the king",
+    "category": "PERSON",
+    "start": "10633",
+    "end": "10640",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the queen",
+    "category": "PERSON",
+    "start": "10766",
+    "end": "10774",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the king",
+    "category": "PERSON",
+    "start": "10941",
+    "end": "10948",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "10980",
+    "end": "10984",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the garden",
+    "category": "LOCATION",
+    "start": "11633",
+    "end": "11642",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "11651",
+    "end": "11655",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "11888",
+    "end": "11892",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the cheshire cat",
+    "category": "LOCATION",
+    "start": "12107",
+    "end": "12122",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the king",
+    "category": "PERSON",
+    "start": "12245",
+    "end": "12252",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the queen",
+    "category": "PERSON",
+    "start": "12259",
+    "end": "12267",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "12381",
+    "end": "12385",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "alice",
+    "category": "PERSON",
+    "start": "13133",
+    "end": "13137",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the duchess",
+    "category": "PERSON",
+    "start": "13193",
+    "end": "13203",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the queen",
+    "category": "PERSON",
+    "start": "13258",
+    "end": "13266",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the duchess",
+    "category": "PERSON",
+    "start": "13453",
+    "end": "13463",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  },
+  {
+    "content": "the king",
+    "category": "PERSON",
+    "start": "13498",
+    "end": "13505",
+    "chapterNumber": "ch08.txt",
+    "bookTitle": "Alice in Wonderland"
+  }
+]
