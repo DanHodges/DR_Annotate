@@ -1,6 +1,7 @@
 ﻿/// <autosync enabled="true" />
 /// <reference path="../gulpfile.js" />
 /// <reference path="js/app.js" />
+/// <reference path="js/contentdirective.js" />
 /// <reference path="js/editchaptercontroller.js" />
 /// <reference path="js/selectchaptercontroller.js" />
 /// <reference path="js/site.min.js" />

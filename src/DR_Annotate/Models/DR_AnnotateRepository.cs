@@ -48,20 +48,19 @@ namespace DR_Annotate.Models
         {
             return _context.Chapters
                 .OrderBy(t => t.BookTitle)
-                .OrderBy(t => t.ChapterNumber);
+                .OrderBy(t => t.ChapterNumber).ToList();
         }
 
-        public Chapter GetChapterByTitleAndNumber(string title, int number)
+        public IEnumerable<Chapter> GetChapterByBookTitleAndNumber( int number, string title)
         {
             var chapter = _context.Chapters
-                .Where(t => t.BookTitle == title && t.ChapterNumber == number);
-            return chapter as Chapter;
+                .Where(t => t.ChapterNumber == number);
+            return chapter;
         }
 
         public void RemoveAnnotation(int id)
         {
-            var toBeRemoved = _context.Annotations;
-                //.Where(t => t.Id == id);
+            var toBeRemoved = _context.Annotations.Where(t => t.Id == id);
             _context.Remove(toBeRemoved);
         }
 

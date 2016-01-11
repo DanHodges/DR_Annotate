@@ -3,6 +3,32 @@
     padding-bottom: 20px;
 }
 
+.editor-nav {
+    line-height: 30px;
+    height: 100%;
+    width: 15%;
+    float: left;
+    padding: 5px;
+    position: fixed;
+}
+.section {
+    margin-left: 15%;
+    margin-right: 5%;
+    padding:10px; 
+}
+
+.PERSON {
+    background-color: lightgreen;
+}
+
+.LOCATION {
+    background-color: lightgray;
+}
+
+.ORGANIZATION {
+    background-color: lightsalmon;
+}
+
 /* Wrapping element */
 /* Set some basic padding to keep content from hitting the edges */
 .body-content {

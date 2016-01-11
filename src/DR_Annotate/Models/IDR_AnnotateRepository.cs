@@ -9,7 +9,7 @@ namespace DR_Annotate.Models
     {
         IEnumerable<Annotation> GetAllAnnotations();
         IEnumerable<Chapter> GetAllChapters();
-        Chapter GetChapterByTitleAndNumber(string title, int number);
+        IEnumerable<Chapter> GetChapterByBookTitleAndNumber(int number, string title);
         void AddChapter(Chapter chapter);
         void AddAnnotation(Annotation annotation);
         void RemoveAnnotation(int id);
