@@ -14,6 +14,7 @@ using Newtonsoft.Json.Serialization;
 using Microsoft.Extensions.PlatformAbstractions;
 using Microsoft.AspNet.Authentication.Cookies;
 using System.Net;
+using Microsoft.AspNet.Mvc;
 
 namespace DR_Annotate
 {
